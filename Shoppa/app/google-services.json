@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1073814352585",
+    "project_id": "shoppa-18919",
+    "storage_bucket": "shoppa-18919.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073814352585:android:3132b763a1279a1f395318",
+        "android_client_info": {
+          "package_name": "com.shopping.shoppa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073814352585-dhpdlte8sqq42585rjv8o9iqmgei67aa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shopping.shoppa",
+            "certificate_hash": "b6c0f0787d3ca827b233beb8fa5423746fd04d8c"
+          }
+        },
+        {
+          "client_id": "1073814352585-1a93t8pba8dlngpm5ekouvothfdbdk5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgjs0ENolYopeA2VfBsrbddtjDScEXN3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073814352585-1a93t8pba8dlngpm5ekouvothfdbdk5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
