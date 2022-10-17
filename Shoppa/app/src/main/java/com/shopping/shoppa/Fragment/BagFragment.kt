@@ -43,6 +43,7 @@ class BagFragment : Fragment(), CartItemClickAdapter {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
+        //sdfdsf
     }
 
     override fun onCreateView(
